@@ -11,6 +11,9 @@ description: If you don't know what to wear, follow the Standard Uniform.
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/121134?s=400&v=4
 
+# Theme
+theme: jekyll-theme-midnight
+
 #
 # Flags below are optional
 #
